@@ -12,18 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <distributionManagement>
-        <repository>
-            <id>libs-release</id>
-            <name>libs-release-local</name>
-            <url>http://192.168.1.76:8081/artifactory/libs-release-local</url>
-        </repository>
-        <snapshotRepository>
-            <id>libs-snapshot</id>
-            <name>libs-snapshot-local</name>
-            <url>http://192.168.1.76:8081/artifactory/libs-snapshot-local</url>
-        </snapshotRepository>
-    </distributionManagement>
+
 
 
     <dependencies>
